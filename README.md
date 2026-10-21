@@ -27,7 +27,7 @@ Before installing, make sure you have:
 5. Add the resource to your `server.cfg` using the resource folder's actual name:
 
    ```cfg
-   ensure aa_Notify
+   ensure  aa-notify
    ```
 
 6. Restart your server or start the resource.
