@@ -51,9 +51,22 @@ Configuration options depend on the version you downloaded. Refer to the include
 - Check the client console for errors.
 - Verify that the downloaded package contains all required interface files.
 
+
 ## Download
 
-Get A&A Notification System from the official A&A Store Tebex store:
+Get A&A Notification System for free from the official A&A Store Tebex page.
+
+**[Download A&A Notification System — FREE](https://aastore.tebex.io/package/7733668)**
+
+## Support
+
+For product support, updates and questions, please use the support channels provided by A&A Store.
+
+---
+
+© A&A Store. All rights reserved.
+
+This repository contains public documentation only. The script's source code is not published here. Please refer to the product's license and terms of use.
 
 **[Visit A&A Store on Tebex](YOUR_TEBEX_PRODUCT_URL)**
 
