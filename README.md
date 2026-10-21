@@ -57,8 +57,6 @@ Get A&A Notification System from the official A&A Store Tebex store:
 
 **[Visit A&A Store on Tebex](YOUR_TEBEX_PRODUCT_URL)**
 
-Replace the placeholder above with the actual product URL.
-
 ## Support
 
 For product support, updates and questions, please use the support channels provided by A&A Store.
