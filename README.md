@@ -68,14 +68,10 @@ For product support, updates and questions, please use the support channels prov
 
 This repository contains public documentation only. The script's source code is not published here. Please refer to the product's license and terms of use.
 
-**[Visit A&A Store on Tebex](YOUR_TEBEX_PRODUCT_URL)**
-
-## Support
-
-For product support, updates and questions, please use the support channels provided by A&A Store.
-
 ---
 
 © A&A Store. All rights reserved.
 
 This repository contains public documentation only. The script's source code is not published here. Please refer to the product's license and terms of use.
+
+
